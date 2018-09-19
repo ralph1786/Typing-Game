@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Merienda");
+
+.game-over {
+  color: rgb(245, 35, 35);
+  font-family: "Merienda", cursive;
+  transition: all 1s ease-in;
+}
+
+.correct-message {
+  color: rgb(7, 230, 7);
+  font-family: "Merienda", cursive;
+  transition: all 1s ease-in;
+}
